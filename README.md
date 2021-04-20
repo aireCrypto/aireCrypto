@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Donate to the cause 👉 0x18d4081D2C1DC5DA3E1aE43725e794407CF84aAc
 <!--
 **aireCrypto/aireCrypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
