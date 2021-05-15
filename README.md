@@ -1,15 +1,15 @@
-### Donate to the cause 👉 0x18d4081D2C1DC5DA3E1aE43725e794407CF84aAc
+Leave the past behind you as we leap into the future of vital technologies. 
 <!--
-**aireCrypto/aireCrypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aireCrypto/aireCrypto** is a ✨ _special_ ✨ repository of rare assests and technological advancement protocols
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+  🔭 I’m currently working on asset acquisitions for solid company foundation
+  🌱 I’m currently learning how to build quantum communications and quantum vault storage
+  👯 I’m looking to collaborate and listen
+  🤔 I’m looking for help with new technology development and production
+  💬 Ask me about currency and token  creation and NFTs
+  📫 How to reach me: text me at 1-256-583-8347
+  😄 Pronouns: 
+  ⚡ Fun fact: a glass half full is a false statement and impossibility. Dinosaurs laid eggs millions of years before chickens came along...the egg came first.
 -->
